@@ -26,3 +26,4 @@ console.log(student.age);
 // Delete a Property 
 delete student.city; 
 console.log(student)
+
